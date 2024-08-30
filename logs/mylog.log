@@ -1,0 +1,215 @@
+[INFO ] 2024-08-18 16:44:03.877 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-18 16:44:10.102 [main] MyStoreVersion1 - clicked on SignIn
+[INFO ] 2024-08-18 16:44:11.519 [main] MyStoreVersion1 - Entered Registered Email
+[INFO ] 2024-08-18 16:44:12.170 [main] MyStoreVersion1 - Entered Registered Password
+[INFO ] 2024-08-18 16:44:14.324 [main] MyStoreVersion1 - clicked on signIn
+[INFO ] 2024-08-18 16:44:14.696 [main] MyStoreVersion1 - Verify Login: Passed
+[INFO ] 2024-08-18 16:44:16.719 [main] MyStoreVersion1 - clicked on SignOut
+[INFO ] 2024-08-18 16:44:29.367 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-18 16:44:29.378 [main] MyStoreVersion1 - ============= Test case Search product Started =================
+[INFO ] 2024-08-18 16:44:32.182 [main] MyStoreVersion1 - ==Email Entered ==
+[INFO ] 2024-08-18 16:44:32.734 [main] MyStoreVersion1 - == Password  Entered ==
+[INFO ] 2024-08-18 16:44:34.383 [main] MyStoreVersion1 - == Clicked On SignIn link ==
+[INFO ] 2024-08-18 16:44:34.806 [main] MyStoreVersion1 - Search Key(Item) entered 
+[INFO ] 2024-08-18 16:44:36.509 [main] MyStoreVersion1 -  Clicked on searchButton 
+[INFO ] 2024-08-18 16:44:36.741 [main] MyStoreVersion1 - VerifySearchProduct test case  :: Passed 
+[INFO ] 2024-08-18 16:44:51.420 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-18 16:44:51.440 [main] MyStoreVersion1 - === Test Execution Started ============
+[INFO ] 2024-08-18 16:44:53.289 [main] MyStoreVersion1 - clicked on SignIn button
+[INFO ] 2024-08-18 16:44:54.150 [main] MyStoreVersion1 - Entered Registered Email
+[INFO ] 2024-08-18 16:44:54.702 [main] MyStoreVersion1 - Entered Registered Password
+[INFO ] 2024-08-18 16:44:56.257 [main] MyStoreVersion1 - clicked on SignIn button
+[INFO ] 2024-08-18 16:44:56.755 [main] MyStoreVersion1 - Entered TextBox key 
+[INFO ] 2024-08-18 16:44:58.482 [main] MyStoreVersion1 - clicked on submit Search Button
+[INFO ] 2024-08-18 16:44:58.624 [main] MyStoreVersion1 - Performed Scroll Down Operation
+[INFO ] 2024-08-18 16:45:00.764 [main] MyStoreVersion1 -  Performed Mouse Over Action On More Link
+[INFO ] 2024-08-18 16:45:01.880 [main] MyStoreVersion1 - Entered Product Size
+[INFO ] 2024-08-18 16:45:02.557 [main] MyStoreVersion1 - Color selected 
+[INFO ] 2024-08-18 16:45:03.003 [main] MyStoreVersion1 - Entered Quantity
+[INFO ] 2024-08-18 16:45:03.317 [main] MyStoreVersion1 - Clicked on AddToCart 
+[INFO ] 2024-08-18 16:45:05.559 [main] MyStoreVersion1 - Clicked on ProceedToCheckout Button
+[INFO ] 2024-08-18 16:45:07.477 [main] MyStoreVersion1 - Clicked of Proceed Link
+[INFO ] 2024-08-18 16:45:09.492 [main] MyStoreVersion1 - Clicked on ProceedToCheckOut
+[INFO ] 2024-08-18 16:45:09.844 [main] MyStoreVersion1 - Clicked on CheckBox 
+[INFO ] 2024-08-18 16:45:11.580 [main] MyStoreVersion1 - Clicked on Proceed To CheckOut 
+[INFO ] 2024-08-18 16:45:12.866 [main] MyStoreVersion1 - Clicked on checkbox 
+[INFO ] 2024-08-18 16:45:20.786 [main] MyStoreVersion1 -  Clicked On order Confirm 
+[INFO ] 2024-08-18 16:45:31.739 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-18 16:45:33.772 [main] MyStoreVersion1 - Clicked on SignIn
+[INFO ] 2024-08-18 16:45:34.393 [main] MyStoreVersion1 - Entered Email
+[INFO ] 2024-08-18 16:45:34.845 [main] MyStoreVersion1 - Entered PassWord
+[INFO ] 2024-08-18 16:45:36.311 [main] MyStoreVersion1 - Clicked on SignIn Link
+[INFO ] 2024-08-18 16:45:37.909 [main] MyStoreVersion1 - Clicked on SignOut Button
+[INFO ] 2024-08-18 16:45:37.981 [main] MyStoreVersion1 - LogOut Test case Passes::
+[INFO ] 2024-08-30 11:57:34.046 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 11:57:36.906 [main] MyStoreVersion1 - clicked on SignIn
+[INFO ] 2024-08-30 11:57:37.998 [main] MyStoreVersion1 - Entered Registered Email
+[INFO ] 2024-08-30 11:57:38.642 [main] MyStoreVersion1 - Entered Registered Password
+[INFO ] 2024-08-30 11:57:40.591 [main] MyStoreVersion1 - clicked on signIn
+[INFO ] 2024-08-30 11:57:40.949 [main] MyStoreVersion1 - Verify Login: Passed
+[INFO ] 2024-08-30 11:57:43.196 [main] MyStoreVersion1 - clicked on SignOut
+[INFO ] 2024-08-30 11:57:56.019 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 11:57:56.033 [main] MyStoreVersion1 - ============= Test case Search product Started =================
+[INFO ] 2024-08-30 11:57:58.492 [main] MyStoreVersion1 - ==Email Entered ==
+[INFO ] 2024-08-30 11:57:59.026 [main] MyStoreVersion1 - == Password  Entered ==
+[INFO ] 2024-08-30 11:58:00.564 [main] MyStoreVersion1 - == Clicked On SignIn link ==
+[INFO ] 2024-08-30 11:58:00.901 [main] MyStoreVersion1 - Search Key(Item) entered 
+[INFO ] 2024-08-30 11:58:02.744 [main] MyStoreVersion1 -  Clicked on searchButton 
+[INFO ] 2024-08-30 11:58:03.025 [main] MyStoreVersion1 - VerifySearchProduct test case  :: Passed 
+[INFO ] 2024-08-30 11:58:16.675 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 11:58:16.686 [main] MyStoreVersion1 - === Test Execution Started ============
+[INFO ] 2024-08-30 11:58:18.499 [main] MyStoreVersion1 - clicked on SignIn button
+[INFO ] 2024-08-30 11:58:19.088 [main] MyStoreVersion1 - Entered Registered Email
+[INFO ] 2024-08-30 11:58:19.522 [main] MyStoreVersion1 - Entered Registered Password
+[INFO ] 2024-08-30 11:58:21.047 [main] MyStoreVersion1 - clicked on SignIn button
+[INFO ] 2024-08-30 11:58:21.384 [main] MyStoreVersion1 - Entered TextBox key 
+[INFO ] 2024-08-30 11:58:22.837 [main] MyStoreVersion1 - clicked on submit Search Button
+[INFO ] 2024-08-30 11:58:22.884 [main] MyStoreVersion1 - Performed Scroll Down Operation
+[INFO ] 2024-08-30 11:58:25.380 [main] MyStoreVersion1 -  Performed Mouse Over Action On More Link
+[INFO ] 2024-08-30 11:58:26.307 [main] MyStoreVersion1 - Entered Product Size
+[INFO ] 2024-08-30 11:58:26.880 [main] MyStoreVersion1 - Color selected 
+[INFO ] 2024-08-30 11:58:27.208 [main] MyStoreVersion1 - Entered Quantity
+[INFO ] 2024-08-30 11:58:27.513 [main] MyStoreVersion1 - Clicked on AddToCart 
+[INFO ] 2024-08-30 11:58:29.614 [main] MyStoreVersion1 - Clicked on ProceedToCheckout Button
+[INFO ] 2024-08-30 11:58:31.088 [main] MyStoreVersion1 - Clicked of Proceed Link
+[INFO ] 2024-08-30 11:58:31.931 [main] MyStoreVersion1 - Clicked on ProceedToCheckOut
+[INFO ] 2024-08-30 11:58:32.856 [main] MyStoreVersion1 - Clicked on CheckBox 
+[INFO ] 2024-08-30 11:58:34.094 [main] MyStoreVersion1 - Clicked on Proceed To CheckOut 
+[INFO ] 2024-08-30 11:58:35.110 [main] MyStoreVersion1 - Clicked on checkbox 
+[INFO ] 2024-08-30 11:58:42.566 [main] MyStoreVersion1 -  Clicked On order Confirm 
+[INFO ] 2024-08-30 11:58:53.352 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 11:58:55.487 [main] MyStoreVersion1 - Clicked on SignIn
+[INFO ] 2024-08-30 11:58:56.068 [main] MyStoreVersion1 - Entered Email
+[INFO ] 2024-08-30 11:58:56.521 [main] MyStoreVersion1 - Entered PassWord
+[INFO ] 2024-08-30 11:58:58.673 [main] MyStoreVersion1 - Clicked on SignIn Link
+[INFO ] 2024-08-30 11:59:00.752 [main] MyStoreVersion1 - Clicked on SignOut Button
+[INFO ] 2024-08-30 11:59:00.802 [main] MyStoreVersion1 - LogOut Test case Passes::
+[INFO ] 2024-08-30 12:03:28.334 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 12:03:31.973 [main] MyStoreVersion1 - clicked on SignIn
+[INFO ] 2024-08-30 12:03:33.210 [main] MyStoreVersion1 - Entered Registered Email
+[INFO ] 2024-08-30 12:03:34.106 [main] MyStoreVersion1 - Entered Registered Password
+[INFO ] 2024-08-30 12:03:36.218 [main] MyStoreVersion1 - clicked on signIn
+[INFO ] 2024-08-30 12:03:36.593 [main] MyStoreVersion1 - Verify Login: Passed
+[INFO ] 2024-08-30 12:03:38.747 [main] MyStoreVersion1 - clicked on SignOut
+[INFO ] 2024-08-30 12:03:51.713 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 12:03:51.727 [main] MyStoreVersion1 - ============= Test case Search product Started =================
+[INFO ] 2024-08-30 12:03:54.117 [main] MyStoreVersion1 - ==Email Entered ==
+[INFO ] 2024-08-30 12:03:54.578 [main] MyStoreVersion1 - == Password  Entered ==
+[INFO ] 2024-08-30 12:03:56.061 [main] MyStoreVersion1 - == Clicked On SignIn link ==
+[INFO ] 2024-08-30 12:03:56.417 [main] MyStoreVersion1 - Search Key(Item) entered 
+[INFO ] 2024-08-30 12:03:57.899 [main] MyStoreVersion1 -  Clicked on searchButton 
+[INFO ] 2024-08-30 12:03:58.066 [main] MyStoreVersion1 - VerifySearchProduct test case  :: Passed 
+[INFO ] 2024-08-30 12:04:11.143 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 12:04:11.158 [main] MyStoreVersion1 - === Test Execution Started ============
+[INFO ] 2024-08-30 12:04:12.817 [main] MyStoreVersion1 - clicked on SignIn button
+[INFO ] 2024-08-30 12:04:13.422 [main] MyStoreVersion1 - Entered Registered Email
+[INFO ] 2024-08-30 12:04:13.850 [main] MyStoreVersion1 - Entered Registered Password
+[INFO ] 2024-08-30 12:04:15.546 [main] MyStoreVersion1 - clicked on SignIn button
+[INFO ] 2024-08-30 12:04:15.895 [main] MyStoreVersion1 - Entered TextBox key 
+[INFO ] 2024-08-30 12:04:16.785 [main] MyStoreVersion1 - clicked on submit Search Button
+[INFO ] 2024-08-30 12:04:17.573 [main] MyStoreVersion1 - Performed Scroll Down Operation
+[INFO ] 2024-08-30 12:04:19.689 [main] MyStoreVersion1 -  Performed Mouse Over Action On More Link
+[INFO ] 2024-08-30 12:04:20.545 [main] MyStoreVersion1 - Entered Product Size
+[INFO ] 2024-08-30 12:04:21.129 [main] MyStoreVersion1 - Color selected 
+[INFO ] 2024-08-30 12:04:21.453 [main] MyStoreVersion1 - Entered Quantity
+[INFO ] 2024-08-30 12:04:21.742 [main] MyStoreVersion1 - Clicked on AddToCart 
+[INFO ] 2024-08-30 12:04:23.272 [main] MyStoreVersion1 - Clicked on ProceedToCheckout Button
+[INFO ] 2024-08-30 12:04:24.615 [main] MyStoreVersion1 - Clicked of Proceed Link
+[INFO ] 2024-08-30 12:04:25.311 [main] MyStoreVersion1 - Clicked on ProceedToCheckOut
+[INFO ] 2024-08-30 12:04:26.078 [main] MyStoreVersion1 - Clicked on CheckBox 
+[INFO ] 2024-08-30 12:04:26.796 [main] MyStoreVersion1 - Clicked on Proceed To CheckOut 
+[INFO ] 2024-08-30 12:04:28.076 [main] MyStoreVersion1 - Clicked on checkbox 
+[INFO ] 2024-08-30 12:04:35.169 [main] MyStoreVersion1 -  Clicked On order Confirm 
+[INFO ] 2024-08-30 12:04:45.163 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 12:04:46.771 [main] MyStoreVersion1 - Clicked on SignIn
+[INFO ] 2024-08-30 12:04:47.325 [main] MyStoreVersion1 - Entered Email
+[INFO ] 2024-08-30 12:04:47.750 [main] MyStoreVersion1 - Entered PassWord
+[INFO ] 2024-08-30 12:04:49.311 [main] MyStoreVersion1 - Clicked on SignIn Link
+[INFO ] 2024-08-30 12:04:51.027 [main] MyStoreVersion1 - Clicked on SignOut Button
+[INFO ] 2024-08-30 12:04:51.092 [main] MyStoreVersion1 - LogOut Test case Passes::
+[INFO ] 2024-08-30 12:13:54.113 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 12:13:57.951 [main] MyStoreVersion1 - clicked on SignIn
+[INFO ] 2024-08-30 12:13:59.231 [main] MyStoreVersion1 - Entered Registered Email
+[INFO ] 2024-08-30 12:14:00.018 [main] MyStoreVersion1 - Entered Registered Password
+[INFO ] 2024-08-30 12:14:02.021 [main] MyStoreVersion1 - clicked on signIn
+[INFO ] 2024-08-30 12:14:02.621 [main] MyStoreVersion1 - Verify Login: Passed
+[INFO ] 2024-08-30 12:14:04.891 [main] MyStoreVersion1 - clicked on SignOut
+[INFO ] 2024-08-30 12:14:17.569 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 12:14:17.580 [main] MyStoreVersion1 - ============= Test case Search product Started =================
+[INFO ] 2024-08-30 12:14:20.021 [main] MyStoreVersion1 - ==Email Entered ==
+[INFO ] 2024-08-30 12:14:20.465 [main] MyStoreVersion1 - == Password  Entered ==
+[INFO ] 2024-08-30 12:14:21.992 [main] MyStoreVersion1 - == Clicked On SignIn link ==
+[INFO ] 2024-08-30 12:14:22.343 [main] MyStoreVersion1 - Search Key(Item) entered 
+[INFO ] 2024-08-30 12:14:23.932 [main] MyStoreVersion1 -  Clicked on searchButton 
+[INFO ] 2024-08-30 12:14:24.084 [main] MyStoreVersion1 - VerifySearchProduct test case  :: Passed 
+[INFO ] 2024-08-30 12:14:35.630 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 12:14:35.645 [main] MyStoreVersion1 - === Test Execution Started ============
+[INFO ] 2024-08-30 12:14:37.408 [main] MyStoreVersion1 - clicked on SignIn button
+[INFO ] 2024-08-30 12:14:37.966 [main] MyStoreVersion1 - Entered Registered Email
+[INFO ] 2024-08-30 12:14:38.412 [main] MyStoreVersion1 - Entered Registered Password
+[INFO ] 2024-08-30 12:14:39.940 [main] MyStoreVersion1 - clicked on SignIn button
+[INFO ] 2024-08-30 12:14:40.320 [main] MyStoreVersion1 - Entered TextBox key 
+[INFO ] 2024-08-30 12:14:41.128 [main] MyStoreVersion1 - clicked on submit Search Button
+[INFO ] 2024-08-30 12:14:41.741 [main] MyStoreVersion1 - Performed Scroll Down Operation
+[INFO ] 2024-08-30 12:14:43.617 [main] MyStoreVersion1 -  Performed Mouse Over Action On More Link
+[INFO ] 2024-08-30 12:14:44.424 [main] MyStoreVersion1 - Entered Product Size
+[INFO ] 2024-08-30 12:14:44.956 [main] MyStoreVersion1 - Color selected 
+[INFO ] 2024-08-30 12:14:45.334 [main] MyStoreVersion1 - Entered Quantity
+[INFO ] 2024-08-30 12:14:45.639 [main] MyStoreVersion1 - Clicked on AddToCart 
+[INFO ] 2024-08-30 12:14:47.476 [main] MyStoreVersion1 - Clicked on ProceedToCheckout Button
+[INFO ] 2024-08-30 12:14:49.060 [main] MyStoreVersion1 - Clicked of Proceed Link
+[INFO ] 2024-08-30 12:14:49.797 [main] MyStoreVersion1 - Clicked on ProceedToCheckOut
+[INFO ] 2024-08-30 12:14:50.575 [main] MyStoreVersion1 - Clicked on CheckBox 
+[INFO ] 2024-08-30 12:14:51.760 [main] MyStoreVersion1 - Clicked on Proceed To CheckOut 
+[INFO ] 2024-08-30 12:14:52.841 [main] MyStoreVersion1 - Clicked on checkbox 
+[INFO ] 2024-08-30 12:15:00.261 [main] MyStoreVersion1 -  Clicked On order Confirm 
+[INFO ] 2024-08-30 12:15:10.907 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 12:15:13.314 [main] MyStoreVersion1 - Clicked on SignIn
+[INFO ] 2024-08-30 12:15:13.952 [main] MyStoreVersion1 - Entered Email
+[INFO ] 2024-08-30 12:15:14.386 [main] MyStoreVersion1 - Entered PassWord
+[INFO ] 2024-08-30 12:15:16.135 [main] MyStoreVersion1 - Clicked on SignIn Link
+[INFO ] 2024-08-30 12:15:17.872 [main] MyStoreVersion1 - Clicked on SignOut Button
+[INFO ] 2024-08-30 12:15:17.921 [main] MyStoreVersion1 - LogOut Test case Passes::
+[INFO ] 2024-08-30 12:34:18.987 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 12:34:32.721 [main] MyStoreVersion1 - clicked on SignIn
+[INFO ] 2024-08-30 12:34:33.763 [main] MyStoreVersion1 - Entered Registered Email
+[INFO ] 2024-08-30 12:34:34.394 [main] MyStoreVersion1 - Entered Registered Password
+[INFO ] 2024-08-30 12:34:36.288 [main] MyStoreVersion1 - clicked on signIn
+[INFO ] 2024-08-30 12:34:36.559 [main] MyStoreVersion1 - Verify Login: Passed
+[INFO ] 2024-08-30 12:34:38.549 [main] MyStoreVersion1 - clicked on SignOut
+[INFO ] 2024-08-30 12:34:49.500 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 12:34:49.512 [main] MyStoreVersion1 - ============= Test case Search product Started =================
+[INFO ] 2024-08-30 12:34:51.880 [main] MyStoreVersion1 - ==Email Entered ==
+[INFO ] 2024-08-30 12:34:52.362 [main] MyStoreVersion1 - == Password  Entered ==
+[INFO ] 2024-08-30 12:34:53.907 [main] MyStoreVersion1 - == Clicked On SignIn link ==
+[INFO ] 2024-08-30 12:34:54.248 [main] MyStoreVersion1 - Search Key(Item) entered 
+[INFO ] 2024-08-30 12:34:55.850 [main] MyStoreVersion1 -  Clicked on searchButton 
+[INFO ] 2024-08-30 12:34:56.014 [main] MyStoreVersion1 - VerifySearchProduct test case  :: Passed 
+[INFO ] 2024-08-30 12:35:08.395 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 12:35:08.402 [main] MyStoreVersion1 - === Test Execution Started ============
+[INFO ] 2024-08-30 12:35:10.122 [main] MyStoreVersion1 - clicked on SignIn button
+[INFO ] 2024-08-30 12:35:10.724 [main] MyStoreVersion1 - Entered Registered Email
+[INFO ] 2024-08-30 12:35:11.197 [main] MyStoreVersion1 - Entered Registered Password
+[INFO ] 2024-08-30 12:35:12.742 [main] MyStoreVersion1 - clicked on SignIn button
+[INFO ] 2024-08-30 12:35:13.084 [main] MyStoreVersion1 - Entered TextBox key 
+[INFO ] 2024-08-30 12:35:14.743 [main] MyStoreVersion1 - clicked on submit Search Button
+[INFO ] 2024-08-30 12:35:14.871 [main] MyStoreVersion1 - Performed Scroll Down Operation
+[INFO ] 2024-08-30 12:35:16.842 [main] MyStoreVersion1 -  Performed Mouse Over Action On More Link
+[INFO ] 2024-08-30 12:35:17.622 [main] MyStoreVersion1 - Entered Product Size
+[INFO ] 2024-08-30 12:35:18.246 [main] MyStoreVersion1 - Color selected 
+[INFO ] 2024-08-30 12:35:18.583 [main] MyStoreVersion1 - Entered Quantity
+[INFO ] 2024-08-30 12:35:18.875 [main] MyStoreVersion1 - Clicked on AddToCart 
+[INFO ] 2024-08-30 12:35:20.558 [main] MyStoreVersion1 - Clicked on ProceedToCheckout Button
+[INFO ] 2024-08-30 12:35:21.944 [main] MyStoreVersion1 - Clicked of Proceed Link
+[INFO ] 2024-08-30 12:35:22.696 [main] MyStoreVersion1 - Clicked on ProceedToCheckOut
+[INFO ] 2024-08-30 12:35:23.495 [main] MyStoreVersion1 - Clicked on CheckBox 
+[INFO ] 2024-08-30 12:35:24.172 [main] MyStoreVersion1 - Clicked on Proceed To CheckOut 
+[INFO ] 2024-08-30 12:35:25.491 [main] MyStoreVersion1 - Clicked on checkbox 
+[INFO ] 2024-08-30 12:35:32.672 [main] MyStoreVersion1 -  Clicked On order Confirm 
+[INFO ] 2024-08-30 12:35:43.294 [main] MyStoreVersion1 - url Opened
+[INFO ] 2024-08-30 12:35:46.246 [main] MyStoreVersion1 - Clicked on SignIn
+[INFO ] 2024-08-30 12:35:46.790 [main] MyStoreVersion1 - Entered Email
+[INFO ] 2024-08-30 12:35:47.225 [main] MyStoreVersion1 - Entered PassWord
+[INFO ] 2024-08-30 12:35:48.671 [main] MyStoreVersion1 - Clicked on SignIn Link
+[INFO ] 2024-08-30 12:35:50.295 [main] MyStoreVersion1 - Clicked on SignOut Button
+[INFO ] 2024-08-30 12:35:50.352 [main] MyStoreVersion1 - LogOut Test case Passes::
